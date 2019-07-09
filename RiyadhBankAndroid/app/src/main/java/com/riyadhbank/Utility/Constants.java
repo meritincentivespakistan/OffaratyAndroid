@@ -3,8 +3,8 @@ package com.riyadhbank.Utility;
 public class Constants  {
 
     public static final int Success = 1;
-    public static final String URL = "http://10.0.0.171/cms/Admin/process";
-   // public static final String URL = "http://cms.meritincentives.com/admin/process";
+    //public static final String URL = "http://10.0.0.171/cms/Admin/process";  //asad local machine
+    public static final String URL = "http://cms.meritincentives.com/admin/process";
 
     public static final String UserProcess = "userprocess.php";
     public static final String ContactQueryProcess = "contactqueryprocess.php";

@@ -114,9 +114,9 @@ public class SignUpActivity extends AppCompatActivity implements Interface.OnSig
                     edtConPass.setError(getResources().getString(R.string.confirmpassnotmatch));
                 } else {
                     if (GlobalClass.isNetworkConnected(SignUpActivity.this)) {
-//                        new CheckNewUserService(SignUpActivity.this, SignUpActivity.this,
-//                                MobileNumber).execute();
-                        showToastMessage("All Done");
+                        new CheckNewUserService(SignUpActivity.this, SignUpActivity.this,
+                                MobileNumber).execute();
+                      //  showToastMessage("All Done");
                     } else {
                         showToastMessage(getResources().getString(R.string.internet_msg));
                     }
