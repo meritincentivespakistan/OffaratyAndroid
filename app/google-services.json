@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95626100051",
+    "firebase_url": "https://offaraty-b68eb.firebaseio.com",
+    "project_id": "offaraty-b68eb",
+    "storage_bucket": "offaraty-b68eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95626100051:android:ed22d556f27d740c",
+        "android_client_info": {
+          "package_name": "com.riyadhbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95626100051-68ek34ceg7a5muv6i3750j6141d0vv0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riyadhbank",
+            "certificate_hash": "9d4a362029218d8bde38cb8f2fec7169ccde0a07"
+          }
+        },
+        {
+          "client_id": "95626100051-9mirqo2utnfcctmannqhrq95moove6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJ6LpwYwfMtrUkdHifpPNr4H0bIVw1pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95626100051-9mirqo2utnfcctmannqhrq95moove6fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
